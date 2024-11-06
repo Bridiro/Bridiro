@@ -36,13 +36,13 @@ Currently, I am 19 years old. Low-level programming enthusiast, loving C, Rust a
   <div align='center'>
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Bridiro"><img src="https://github-readme-stats.vercel.app/api?username=Bridiro&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=1f1f1f&hide_border=true&show_icons=true" alt="Bridiro7's GitHub stats" /></a>
+<a href="http://www.github.com/Bridiro"><img src="https://github-readme-stats.vercel.app/api?username=Bridiro&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=00000000&hide_border=true&show_icons=true" alt="Bridiro7's GitHub stats" /></a>
   
 
 
-<a href="http://www.github.com/Bridiro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bridiro&stroke=ffffff&background=1f1f1f&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Bridiro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bridiro&stroke=ffffff&background=00000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   
-<a href="https://github.com/Bridiro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bridiro&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=1f1f1f&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Bridiro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bridiro&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
   
   <div align="center"> <img src="https://komarev.com/ghpvc/?username=krishnadev7&&style=flat-square" align="center" /> </div>
