@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a CS student at [University of Trento](www.unitn.it)
 ------------------------------
 
-Currently, I am 19 years old. Low-level programming enthusiast, loving C, Rust and sometimes C++. I find embedded programming satisfying and I love dealing with bare-metal. Currently part of [E-Agle Racing Team Trento](eagletrt.it) (working on the steering wheel).
+Currently, I am 19 years old. Low-level programming enthusiast, loving C, Rust and sometimes C++. I find embedded programming satisfying and I love dealing with bare-metal. Currently part of [E-Agle Racing Team Trento](https://eagletrt.it) (working on the steering wheel).
 
 * 🌍  I'm based in Trento, Italy
 * ✉️  You can contact me at [ale.bridi15@gmail.com](mailto:ale.bridi15@gmail.com)
-* 🧠  I'm studying CS at [University of Trento](www.unitn.it)
+* 🧠  I'm studying CS at [University of Trento](https://www.unitn.it)
 * 🏎  Part of [E-Agle Racing Team Trento](https://eagletrt.it)
 
 <br>
