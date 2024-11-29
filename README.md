@@ -9,7 +9,7 @@ Currently, I am 19 years old. Low-level programming enthusiast, loving C, Rust a
 * 🌍  I'm based in Trento, Italy
 * ✉️  You can contact me at [ale.bridi15@gmail.com](mailto:ale.bridi15@gmail.com)
 * 🧠  I'm studying CS at [University of Trento](www.unitn.it)
-* 🏎  Part of [E-Agle Racing Team Trento](eagletrt.it)
+* 🏎  Part of [E-Agle Racing Team Trento](https://eagletrt.it)
 
 <br>
 
