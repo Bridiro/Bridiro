@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alessandro
 ==================================================================================================================================
 
-I am a CS student at [University of Trento](www.unitn.it)
+I am a CS student at [University of Trento](https://www.unitn.it)
 ------------------------------
 
 Currently, I am 19 years old. Low-level programming enthusiast, loving C, Rust and sometimes C++. I find embedded programming satisfying and I love dealing with bare-metal. Currently part of [E-Agle Racing Team Trento](https://eagletrt.it) (working on the steering wheel).
